@@ -1,0 +1,25 @@
+html{
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.headBox{
+    background-color: white;
+    width: 100%;
+    height: 64px;
+    display: flex;
+    justify-content: space-around;
+    z-index: 4;
+    position: fixed;
+
+}
+.logoImg{
+    width: 10%;
+}
+button{
+    border: 0;
+    font-size: 14px;
+    font-weight: 200;
+    background-color: none;
+}

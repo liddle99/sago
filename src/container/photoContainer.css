@@ -1,0 +1,26 @@
+.scroll{
+    padding-top: 7%;
+    height: auto;
+    width: 75%;
+    column-count: 3;
+    column-gap: 10px;
+    column-fill: auto;
+    margin: 0 auto;
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start; */
+    /* width: 79%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    left: 50%;
+    right: 50%;
+    padding-top: 5%;  */
+}
+
+
+
+
+
+/* */

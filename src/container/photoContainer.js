@@ -28,8 +28,6 @@
             })
         
         }
-
-        
         handleOnScroll = async () => {
         const { innerHeight } = window;
         const { scrollHeight } = document.body;
@@ -53,7 +51,6 @@
                 }) 
         }
     }
-
     render() {
         const {images} =this.state
         const list = Object.keys(images).map((res,index) => <Photo key={index} photo={images[res].photo_thumbnail}/>)
